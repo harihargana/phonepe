@@ -1,0 +1,11 @@
+{
+  "db": {
+    "project_id": <GCP Project>,
+    "region": <GCP Region>,
+    "instance_name": <GCP Instance Hosting MySQL>,
+    "user": <DB User Name>,
+    "passwd": <DB User Password>,
+    "type": "pymysql",
+    "name":"phonepe_pulse"
+  }
+}
